@@ -66,6 +66,9 @@
   #faq .block__banner {
     padding: 20px 0px;
   }
+  #faq .block__banner h1 {
+    width: auto;
+  }
   #faq .block__mainsection {
     padding: 30px 0px;
   }
