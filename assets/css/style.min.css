@@ -68,6 +68,8 @@
   }
   #faq .block__banner h1 {
     width: auto;
+    font-size: 40px;
+    font-family: bold;
   }
   #faq .block__mainsection {
     padding: 30px 0px;
