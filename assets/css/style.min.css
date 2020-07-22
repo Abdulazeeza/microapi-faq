@@ -44,6 +44,9 @@
 }
 #faq .block__question__answer {
   width: 620px;
+  color: #6C6C6C;
+  line-height: 22px;
+  font-size: 14px;
 }
 #faq .block__question--active {
   background: #ffffff;
