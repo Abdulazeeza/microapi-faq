@@ -1,4 +1,5 @@
 $(document).ready(function () {
+	//listens to the click event of the question tabs then close and open the tabs 
 	$(document).on("click", ".block__question", function(){
 		
 		if($(this).hasClass("block__question--active")){
